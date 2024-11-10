@@ -17,4 +17,5 @@ ${{ secrets.ALIST_USERNAME }}  OSSID
 
 ${{ secrets.ALIST_PASSWORD }}  OSS密码
 
-需要联系 @JingHai-Lingyun 或 @Joker2184 开通 OSS Webdav 使用
+需要联系 @JingHai-Lingyun 或 @Joker2184 开通 OSS Webdav 使用（默认不开通）
+
