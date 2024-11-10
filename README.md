@@ -5,6 +5,10 @@
 
 配置
 
+库 创建.github/workflows文件夹
+
+在 Settings/Secrets/Actions/Repository secrets 配置以下内容
+
 ${{ secrets.WEBDAV_HOST }} OSS域名
 
 ${{ secrets.WEBDAV_PORT }} OSS端口
