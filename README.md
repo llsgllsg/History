@@ -25,3 +25,10 @@ ${{ secrets.ALIST_PASSWORD }}  OSS密码
 
 需要联系 @JingHai-Lingyun 或 @Joker2184 开通 OSS Webdav 使用（默认不开通）
 
+
+> [!CAUTION]
+> 本配置文件是先删除目标OSS内所有文件再上传Github库文件
+> 
+> 请配置一个Reload.md用于重载Actions
+> 
+> Reload.md不会影响主页运行 但是如果配置完把文件删完替换成其他的就会了.jpg
