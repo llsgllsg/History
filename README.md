@@ -26,7 +26,7 @@
 > 
 >![QQ20241116-222726](https://github.com/user-attachments/assets/e9ed6652-8b74-4352-9440-7d8ec3f84f8f)
 > 
->需要联系 @JingHai-Lingyun 或 @Joker2184 开通 OSS Webdav 使用（默认不开通）WEBDAV_HOST
+>需要联系 @JingHai-Lingyun 或 @Joker2184 开通 OSS Webdav 使用（默认不开通）
 
 
 > [!CAUTION]
