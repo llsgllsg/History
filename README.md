@@ -19,7 +19,7 @@
 >
 >${{ secrets.WEBDAV_HOST }} OSS域名：这个->pclhomeplazaoss.lingyunawa.top
 >
->${{ secrets.WEBDAV_PORT }} OSS端口[填内部访问端口]
+>${{ secrets.WEBDAV_PORT }} OSS端口[填内部访问端口 通常指的是用于上传文件的端口为保密添加为secrets 对外请使用26994]
 >
 >${{ secrets.ALIST_USERNAME }}  OSSID[凌云发你的ID 一般为GxxxxxID 若新人加入请私聊凌云]
 >
